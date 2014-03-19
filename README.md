@@ -4,7 +4,7 @@ Sorry guys, but I have to.
 
 Tabs advantages:
 
- * Tabs are _designed to be_ an indentation character.
+ * Tabs are _designed to be_ an indentation character. They are _semantically correct_.
  * Tabs can be configured to have different width.
  * Tabs keep source code size _meaningful_, not exaggerating characters count by 4-times with meaningless whitespace characters. With tabs, 5k file, say, is 4k source and 1k whitespace. With spaces, 5k file is 1-2 source and 4-3 k whitespace.
  * Many IDEs do the smart-tabbing _automatically_, making this approach transparent and clean.
